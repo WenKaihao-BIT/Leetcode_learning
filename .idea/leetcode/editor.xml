@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../C++leetcode/leetcode/editor/cn/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 25" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp" />
+              <option name="titleSlug" value="he-bing-liang-ge-pai-xu-de-lian-biao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 25" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp" />
+              <option name="titleSlug" value="he-bing-liang-ge-pai-xu-de-lian-biao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
