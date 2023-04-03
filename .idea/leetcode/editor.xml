@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/smallest-subsequence-of-distinct-characters.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/smallest-subsequence-of-distinct-characters.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1081" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/smallest-subsequence-of-distinct-characters.cpp" />
+              <option name="titleSlug" value="smallest-subsequence-of-distinct-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
