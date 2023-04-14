@@ -10,3 +10,4 @@ add_executable(shu-de-zi-jie-gou-lcof leetcode/editor/cn/shu-de-zi-jie-gou-lcof.
 add_executable(er-cha-shu-de-jing-xiang-lcof leetcode/editor/cn/er-cha-shu-de-jing-xiang-lcof.cpp)
 add_executable(shun-shi-zhen-da-yin-ju-zhen-lcof leetcode/editor/cn/shun-shi-zhen-da-yin-ju-zhen-lcof.cpp)
 add_executable(remove-element leetcode/editor/cn/remove-element.cpp)
+add_executable(bao-han-minhan-shu-de-zhan-lcof leetcode/editor/cn/bao-han-minhan-shu-de-zhan-lcof.cpp)

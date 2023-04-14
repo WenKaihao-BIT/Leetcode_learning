@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/bao-han-minhan-shu-de-zhan-lcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/bao-han-minhan-shu-de-zhan-lcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 30" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/bao-han-minhan-shu-de-zhan-lcof.cpp" />
+              <option name="titleSlug" value="bao-han-minhan-shu-de-zhan-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/er-cha-shu-de-jing-xiang-lcof.cpp">
           <value>
             <LeetcodeEditor>
